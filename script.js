@@ -18,3 +18,5 @@ console.log(changer('erbha52'));
 //ezeket is tesztelni kell:
 console.log(changer('defg456'));
 console.log(changer('abcd123'));
+
+//uj sor ismet
